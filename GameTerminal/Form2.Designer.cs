@@ -112,7 +112,7 @@
             // 
             // pictureBox4
             // 
-            this.pictureBox4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.pictureBox4.BackColor = System.Drawing.Color.IndianRed;
             this.pictureBox4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox4.Location = new System.Drawing.Point(300, 250);
             this.pictureBox4.Name = "pictureBox4";
@@ -122,7 +122,7 @@
             // 
             // pictureBox5
             // 
-            this.pictureBox5.BackColor = System.Drawing.Color.ForestGreen;
+            this.pictureBox5.BackColor = System.Drawing.Color.SeaGreen;
             this.pictureBox5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox5.Location = new System.Drawing.Point(12, 250);
             this.pictureBox5.Name = "pictureBox5";
@@ -172,7 +172,9 @@
             // 
             // listBox1
             // 
+            this.listBox1.BackColor = System.Drawing.Color.Black;
             this.listBox1.Font = new System.Drawing.Font("Lucida Sans Unicode", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.listBox1.ForeColor = System.Drawing.SystemColors.MenuBar;
             this.listBox1.FormattingEnabled = true;
             this.listBox1.ItemHeight = 16;
             this.listBox1.Location = new System.Drawing.Point(575, 37);
@@ -194,6 +196,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.CadetBlue;
             this.ClientSize = new System.Drawing.Size(736, 437);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.button1);

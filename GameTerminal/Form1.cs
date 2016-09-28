@@ -21,7 +21,7 @@ namespace WindowsFormsApplication2
         {
             Form2 popup = new Form2();
             DialogResult dialogresult = popup.ShowDialog();
-            if (dialogresult == DialogResult.Cancel);
+            if (dialogresult == DialogResult.Cancel)
             {
                 popup.Dispose();
             }
@@ -31,7 +31,7 @@ namespace WindowsFormsApplication2
         {
             Form3 popup = new Form3();
             DialogResult dialogresult = popup.ShowDialog();
-            if (dialogresult == DialogResult.Cancel) ;
+            if (dialogresult == DialogResult.Cancel) 
             {
                 popup.Dispose();
             }
@@ -41,7 +41,7 @@ namespace WindowsFormsApplication2
         {
             Slaps popup = new Slaps();
             DialogResult dialogresult = popup.ShowDialog();
-            if (dialogresult == DialogResult.Cancel) ;
+            if (dialogresult == DialogResult.Cancel) 
             {
                 popup.Dispose();
             }
