@@ -1,6 +1,8 @@
 Backlog:
 
-As a player I want to use the game terminal to play the Rock-paper-scissors game.
+As a player I want to see the game selection choices so I can choose my preferred game.
+
+As a player I want to use the game terminal menu to choose the Rock-paper-scissors game to play.
 
 
 
