@@ -1,0 +1,27 @@
+Customer Report Week 5
+
+
+State of Project: 
+
+The Badger now has working IOS code for the random response generator. 
+The Badger math calculator is not working anymore with single digits and needs to be fixed. 
+The calculator can no longer do equations. Equations involving single digits should be computed with multiplication, addition, subtraction and division. 
+This was working last week but now contains errors that need to be corrected. 
+The Badger still has working functionality for the text input and basic random response generator based off of the design. 
+The interface for this functionality is in better shape. 
+There is still no design or functionality for voice input, voice recognition, or audio output. 
+The method for a pattern familiarity locator also has yet to be designed or implemented. 
+Some implementations that were once working are now non-functional. The Implementing process needs more work.
+
+Development Progress: 
+
+The goals over the past week were further develop the web app interface for the random response generator and to get the random response generator working in for IOS. 
+The code for the IOS now generates a random response. 
+The other goal was mostly accomplished and a basic interface is now in the works. 
+The progress that was accomplished over the past week nearly met expectations and the development requirement.
+
+Next Week Goals: 
+
+Goals for next week include fixing the math calculator so It once again works with single digit numbers to compute equations involving, addition, multiplication, subtraction, and division. 
+Another goal is to get the math calculator working with 2 digits to also be able to compute equations involving the basic operations. 
+The last goal is to further build upon the web app interface to make it more user friendly and visually appealing.
