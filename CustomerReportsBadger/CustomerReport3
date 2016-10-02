@@ -1,0 +1,22 @@
+Customer Report Week 3
+
+
+State of Project: 
+
+The Badger now has working functionality for the text input and the random response generator based from the design that was created last week. 
+A question can be entered in a text field and a button can be pressed to generated a random response that is presented to the user in text. 
+There is no design or functionality for voice input, voice recognition, or audio output. 
+The method for a pattern familiarity locator also has yet to be designed or implemented. 
+So far, some designs have been implemented and others still need further design before they are ready to start being instituted.
+
+Development Progress: 
+
+The goals over the past week were to implement the design for the text input field and to also implement the design for the random response generator as well. 
+These goals were accomplished and a user can now enter their question and receive a random response. 
+The progress that was accomplished over the past week was on par with what was expected of them and met the development requirement.
+
+Next Week Goals: 
+
+Goals for next week include designing and implementing a math like calculator that will take mathematical input equations and will return correct answers. 
+Once the input is entered, a button will be pressed which will take the equation input and correctly interpret what action needs to be done in order to generate the appropriate output. 
+The output that is generated from interpretation should never be random and should always return a correct response when using this calculator function.
