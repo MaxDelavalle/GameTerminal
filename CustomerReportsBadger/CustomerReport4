@@ -1,0 +1,25 @@
+Customer Report Week 4
+
+
+State of Project: 
+
+The Badger math calculator now has working functionality. 
+The calculator can do equations involving single digits. 
+Equations involving single digits can be computed with multiplication, addition, subtraction and division. 
+The Badger still has working functionality for the text input and very basic random response generator based off of the design. 
+A question can be entered in a text field and a button can be pressed to generate a random response that is presented to the user in text. 
+There is still no design or functionality for voice input, voice recognition, or audio output. 
+The method for a pattern familiarity locator also has yet to be designed or implemented. 
+So far, most designs have been implemented at a very basic level including the math calculator. No implementations are developed fully yet.
+
+Development Progress: 
+
+The goals over the past week were to implement the design for the math calculator so it could compute basic equations. 
+This goal was accomplished and a user can now enter an equation involving single digits to compute a basic equation involving addition, subtraction, multiplication and division. 
+I saw a working prototype of this new development and it appeared to function as it was intended (Multiplied correctly, divided correctly, subtracted, added) 
+The progress that was accomplished over the past week met expectations and fit the development requirement.
+
+Next Week Goals: 
+
+Goals for next week include further development on the random response generator to create a web based interface or similar interface. 
+The interface will fit the random response generators needs and will be easy to use. 
