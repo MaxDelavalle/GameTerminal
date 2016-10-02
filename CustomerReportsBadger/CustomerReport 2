@@ -1,1 +1,33 @@
 
+Customer Report Week 2
+
+We envision the Badger as a random response generator, where a button is pressed and then a response is returned to the user.
+What we would like to see is for the team to develop a way for the badger to recognize a typed response that is then responded to in the according fashion. 
+Perhaps voice recognition will be added once the first couple things are completed.
+
+State of Project: 
+
+The Badger doesn’t have any design or functionality for the random response function for voice recognition or voice input. 
+The random response generator for text input is also still being designed. 
+Currently, the input mechanism is also not functional as well as the response generator based from a pattern familiarity locator. 
+The design for this project is in a rudimentary state and hasn’t yet begun.
+
+Development Progress: 
+
+The development goals over the past week were to only design the text input and random response generator. 
+This was accomplished and the design was created for the generator. 
+The design for the random response generator will simply be a random response will be given based on a given set of text that the user provides. 
+The user will see the response to this in the form of text as well. 
+The input design is created so there will be a field where the user is to enter text in the form of a question and will be able to generate a response after pressing a button or a similar feature. 
+The Development progress met the requirements for the week and met expectations content wise.
+
+Next Week Goals: 
+
+Goals for next week will include implementing the text input field and the random response generator so that they work in congruence with each other. 
+Once a question is entered by the user, there should be some kind of button that is pressed and the user should be able to see a written out random response that has been generated.
+ 
+First milestone: 8 ball response prototype where the button returns a random response.
+
+Second milestone: the app will be able to detect patterns in sentences and return an intelligent response.
+
+Third milestone: voice recognition will be added to the app.
