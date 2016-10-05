@@ -1,0 +1,13 @@
+﻿Troy Burek, Max Delavalle, John Cordes
+
+
+Prof Crain
+
+
+Software Engineering II
+
+
+Weekly Report
+
+
+        We are in the second week of our two week sprint. Our goals for this current week include adding at least one more game to the terminal (Space Invaders) and to add 4 more user stories to our backlog. Troy and Max are coding the game and working on the UI of the program while John is working on the backlog and the customer report. In our sprint meeting, we talked about possible user stories as well as what other games we could add to the terminal, we also talked about color schemes for the UI and different functionalities we are looking to add. Next sprint, we want to start working on a third game and are looking to be finishing up the overall UI design of the program.
