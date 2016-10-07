@@ -1,0 +1,29 @@
+Customer Report Week 6
+
+State of Project: 
+
+The Badger math calculator has been fixed and is working again with single digits and minimally with two digit equations. 
+The calculator can now do equations again. 
+Equations involving single digits are computed involving multiplication, addition, subtraction and division. 
+This was not working last week but now shows an improvement in functionality.
+The Badger still has working functionality for the text input and basic random response generator based off of the design. 
+The interface for this functionality is improved since last week. 
+There is still no design or functionality for voice input, voice recognition, or audio output. 
+The method for a pattern familiarity locator is soon to be in the works. 
+The Badger IOS code for the random response generator is still working the same.
+Implementations that were once working are now working again. 
+The Implementing is in better shape than last week, with more functionality.
+
+Development Progress: 
+
+The goals over the past week were to fix the single digit math calculator so it is functioning properly again. 
+This goal was accomplished and single digits now do basic equations correctly again as they used to. 
+The other goal was to get the math calculator working with two digits. 
+This wasn't fully accomplished and it only computes very basic or specific equations with two digits. 
+The other goal of making the web app random generator more visually appealing was accomplished and there is now a user interface that is more accomplished. 
+The progress that was accomplished over the past week met most expectations and the development requirement was satisfied.
+
+Next Week Goals: 
+
+Goals for next week include getting two digit numbers to work better with a variety of different equations instead of only a few selected equations. 
+Another goal is to formulate a very basic design for how the pattern locator will function.
