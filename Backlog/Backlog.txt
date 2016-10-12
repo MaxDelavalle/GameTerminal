@@ -12,6 +12,10 @@ As a player I want more games added to the terminal so I have a greater selectio
 
 As a player I want a game to include a high score feature so I know what my best score is for the game.
 
+As a player I want to use the game terminal to play the war card game.
+
+As a player I want to use the game terminal to play the Slaps card game.
+
 
 
 .
