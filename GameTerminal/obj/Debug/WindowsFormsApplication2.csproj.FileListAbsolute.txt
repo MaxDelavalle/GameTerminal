@@ -1,0 +1,27 @@
+c:\users\max\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\max\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\max\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\max\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\max\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\max\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\max\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\max\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+c:\users\max\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+c:\users\max\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Max\Documents\Visual Studio 2015\Projects\GameTerminal\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Max\Documents\Visual Studio 2015\Projects\GameTerminal\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Max\Documents\Visual Studio 2015\Projects\GameTerminal\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Max\Documents\Visual Studio 2015\Projects\GameTerminal\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Max\Documents\Visual Studio 2015\Projects\GameTerminal\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Max\Documents\Visual Studio 2015\Projects\GameTerminal\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Max\Documents\Visual Studio 2015\Projects\GameTerminal\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Max\Documents\Visual Studio 2015\Projects\GameTerminal\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Max\Documents\Visual Studio 2015\Projects\GameTerminal\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Max\Documents\Visual Studio 2015\Projects\GameTerminal\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Slaps.resources
+C:\Users\Max\Documents\Visual Studio 2015\Projects\GameTerminal\WindowsFormsApplication2\obj\Debug\CalceranosInvaders.MainForm.resources
+C:\Users\Max\Documents\Visual Studio 2015\Projects\GameTerminal\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.RPS.resources
+C:\Users\Max\Documents\GitHub\GameTerminal\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Max\Documents\GitHub\GameTerminal\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Max\Documents\GitHub\GameTerminal\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Max\Documents\GitHub\GameTerminal\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache

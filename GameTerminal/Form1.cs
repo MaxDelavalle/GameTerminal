@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CalceranosInvaders;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -29,7 +30,7 @@ namespace WindowsFormsApplication2
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Form3 popup = new Form3();
+            MainForm popup = new MainForm();
             DialogResult dialogresult = popup.ShowDialog();
             if (dialogresult == DialogResult.Cancel) 
             {
