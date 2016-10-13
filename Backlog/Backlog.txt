@@ -16,6 +16,8 @@ As a player I want to use the game terminal to play the war card game.
 
 As a player I want to use the game terminal to play the Slaps card game.
 
+As a player I want to use the game terminal to play Space Invaders.
+
 
 
 .
