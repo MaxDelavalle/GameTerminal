@@ -1,0 +1,25 @@
+Customer Report Week 7
+	
+	State of Project:
+	
+	The Badger math calculator is under construction again and is struggling to maintain a consistent functionality. It may work very basically with single digits but it is very limited in its variety of uses for now.
+	However, some equations involving single digits are computed involving multiplication, addition, subtraction and division.
+	The Badger still has working functionality for the text input and basic random response generator based off of the design. The web app part of this interface is working and has a unique interface.
+	The interface for this functionality hasn't changed much over the past week.
+	There is still no design or functionality for voice input, voice recognition, or audio output.
+	The method for a pattern familiarity locator is a future design goal.
+ Implementations that were once working are still working and others have stopped working. No major new implementations have been accomplished.
+	Things are pretty much in the same shape they were last week.
+	
+	Development Progress:
+	
+	The goals over the past week were to get two digits working with the calculator.
+	This wasn't fully accomplished and it only computes very basic or specific equations with one digit.
+Only the web interface for the random response generator was updated.
+	The other goal of designing a pattern locator has been put off, becasue more work is still needed on the web app interface and math calculator function.
+	The progress that was accomplished over the past week didn't really meet expectaions and only minor developments were made.
+	
+	Next Week Goals:
+	
+	Goals for next week include getting one and two digit numbers to work with a variety of different equations instead of only a few selected equations.
+	Another goal is to integrate the math calcultor with the web app.
