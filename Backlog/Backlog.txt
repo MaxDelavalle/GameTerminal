@@ -4,5 +4,19 @@ As a player I want to see the game selection choices so I can choose my preferre
 
 As a player I want to use the game terminal menu so I can choose to play the Rock-paper-scissors game.
 
+As a player I want to log in to the game terminal so I can access the games as a unique user.
+
+As a player I want a game to keep track of wins and losses so I know what my winning history is.
+ 
+As a player I want more games added to the terminal so I have a greater selection to choose from.
+
+As a player I want a game to include a high score feature so I know what my best score is for the game.
+
+
+
+.
+
+
+
 
 
