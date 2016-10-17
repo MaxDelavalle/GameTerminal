@@ -1,0 +1,10 @@
+﻿Troy Burek, Max Delavalle, John Cordes
+
+
+Prof Crain
+
+
+Weekly Report 10/10 - 10/16
+
+
+        This week we have started another two week sprint, following the plans laid out during the sprint meeting, during this sprint we plan to add a few more games to our terminal and to expand upon the UI. Amongst these games includes snake, and we plan to add more functionality including a user login among other things. During the scrum meeting, we decided we want to make sure we utilize the repository in a better manner, making pushes more frequently than the original rate. We are constantly adding more user stories to our backlog so that we can keep our product in a realistic scope and stick to implementing additions that our customer has recommended to us.
