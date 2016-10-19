@@ -1,22 +1,31 @@
 Backlog:
 
-As a player I want to see the game selection when the terminal comes up so I can choose my preferred game. When I see the games immediately as the game terminal loads, I will instantly be able to start selecting a game.
+As a player I want to see the game selection when the terminal comes up so I can choose my preferred game. 
+When I see the games immediately as the game terminal loads, I will instantly be able to start selecting a game.
 
-As a player I want to use the game terminal menu so I can choose to play the Rock-paper-scissors game. There will be an area where I can choose rock, paper, or scissors, and the computer will generate its response once I have choosen mine. A log of my wins and losses shouls appear somewhere on the screen.
+As a player I want to use the game terminal menu so I can choose to play the Rock-paper-scissors game. 
+There will be an area where I can choose rock, paper, or scissors, and the computer will generate its response once I have choosen mine. 
+A log of my wins and losses shouls appear somewhere on the screen.
 
-As a player I want to log in to the game terminal so I can access the games as a unique user. Once I log into the game terminal, the scores I make while logged in will be saved.
+As a player I want to log in to the game terminal so I can access the games as a unique user. 
+Once I log into the game terminal, the scores I make while logged in will be saved.
 
-As a player I want a game to keep track of wins and losses so I know what my winning history is. The game will count the number of losses and wins and it will update the total count each time I finish a game.
+As a player I want a game to keep track of wins and losses so I know what my winning history is. 
+The game will count the number of losses and wins and it will update the total count each time I finish a game.
  
-As a player I want more games added to the terminal so I have a greater selection to choose from. When more games are added, I will be more likely to find a game that interests me.
+As a player I want more games added to the terminal so I have a greater selection to choose from. 
+When more games are added, I will be more likely to find a game that interests me.
 
-As a player I want a game to include a high score feature so I know what my best score is for the game. Similarly to keeping track of wins and losses, I want a game that keeps a high score so I know how good a player I am.
+As a player I want a game to include a high score feature so I know what my best score is for the game. 
+Similarly to keeping track of wins and losses, I want a game that keeps a high score so I know how good a player I am.
 
-As a player I want to use the game terminal to play the war card game. When I select a card, the computer will generate its own and will determine who won and adjust the score accordingly. 
+As a player I want to use the game terminal to play the war card game. 
+When I select a card, the computer will generate its own and will determine who won and adjust the score accordingly. 
 
 As a player I want to use the game terminal to play the Slaps card game and Space Invaders. 
 
-As a player I would like the User Interface to contain more features so I can personalize my session while logged in. I want to see whether I am logged in or not so I will know if the game terminal will remember my scores. 
+As a player I would like the User Interface to contain more features so I can personalize my session while logged in. 
+I want to see whether I am logged in or not so I will know if the game terminal will remember my scores. 
 
 
 
