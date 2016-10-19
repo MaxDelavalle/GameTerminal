@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApplication2
 {
-    partial class Slaps
+    partial class Form3
     {
         /// <summary>
         /// Required designer variable.

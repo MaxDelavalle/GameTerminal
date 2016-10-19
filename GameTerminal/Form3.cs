@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApplication2
 {
-    public partial class Slaps : Form
+    public partial class Form3 : Form
     {
-        public Slaps()
+        public Form3()
         {
             InitializeComponent();
         }
