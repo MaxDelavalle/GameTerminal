@@ -54,7 +54,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(428, 48);
             this.button2.TabIndex = 1;
-            this.button2.Text = "War";
+            this.button2.Text = "SpaceInvaders";
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -66,7 +66,7 @@
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(428, 44);
             this.button3.TabIndex = 2;
-            this.button3.Text = "Slaps";
+            this.button3.Text = "Snake";
             this.button3.UseVisualStyleBackColor = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 

@@ -1,0 +1,2 @@
+C:\Users\Max\Documents\GitHub\GameTerminal\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Max\Documents\GitHub\GameTerminal\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
