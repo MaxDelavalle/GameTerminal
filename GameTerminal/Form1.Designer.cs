@@ -39,6 +39,7 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.button7 = new System.Windows.Forms.Button();
+            this.button8 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -86,7 +87,7 @@
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(169, 44);
             this.button4.TabIndex = 3;
-            this.button4.Text = "Snake";
+            this.button4.Text = "Hangman";
             this.button4.UseVisualStyleBackColor = false;
             // 
             // button5
@@ -153,12 +154,23 @@
             this.button7.Text = "Create Account";
             this.button7.UseVisualStyleBackColor = false;
             // 
+            // button8
+            // 
+            this.button8.BackColor = System.Drawing.Color.Gold;
+            this.button8.Location = new System.Drawing.Point(603, 44);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(75, 23);
+            this.button8.TabIndex = 11;
+            this.button8.Text = "Login";
+            this.button8.UseVisualStyleBackColor = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.SteelBlue;
             this.ClientSize = new System.Drawing.Size(714, 307);
+            this.Controls.Add(this.button8);
             this.Controls.Add(this.button7);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
@@ -193,6 +205,7 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Button button7;
+        private System.Windows.Forms.Button button8;
     }
 }
 
