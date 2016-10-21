@@ -1,9 +1,9 @@
 
 Customer Report Week 8
 	
-	State of Project:
+     State of Project:
 	
-	The Badger math calculator is now working with multiple digits. It solves equations between only two numbers using all types of operators
+        The Badger math calculator is now working with multiple digits. It solves equations between only two numbers using all types of operators
   	including addition, multiplication, division and subtraction.
 	The Badger still has working functionality for the text input and basic random response generator based off of the design. 
   	The web app part of this interface is working and has a unique interface.
