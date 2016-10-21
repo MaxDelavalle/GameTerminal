@@ -98,7 +98,7 @@
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(168, 44);
             this.button5.TabIndex = 4;
-            this.button5.Text = "Snake";
+            this.button5.Text = "Game5";
             this.button5.UseVisualStyleBackColor = false;
             // 
             // button6
@@ -109,7 +109,7 @@
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(168, 44);
             this.button6.TabIndex = 5;
-            this.button6.Text = "Snake";
+            this.button6.Text = "Game6";
             this.button6.UseVisualStyleBackColor = false;
             // 
             // label1
