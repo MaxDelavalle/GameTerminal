@@ -1,0 +1,10 @@
+﻿Troy Burek, Max Delavalle, John Cordes
+
+
+Prof Crain
+
+
+Weekly Report 10/17-10/23
+
+
+        We are now on the second week of our second sprint, we have successfully added “Snake” to our Game Terminal along with various changes to the user interface and capabilities. We would like to work on getting a functional user login as well as a form specifically for creating an account with Game Terminal which will allow us to keep track of our users. Our next project for the terminal will be to add “Hangman” as a playable game. For this, we are adding a multitude of vocabulary that the game code will have to pull from. We are making sure to make frequent pushes to our repository, so that the repository can work in its full capacity, and that we can keep track of the many changes we are making to the program.
