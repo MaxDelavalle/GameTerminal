@@ -38,12 +38,15 @@ so I can personalize my session while logged in.
 I want to see whether I am logged in or not so I will 
 know if the game terminal will remember my scores. 
 
-As a player I want to be able to play snake game so
-there are no glitches in the code.
-The game should function appropriately and should
+As a player I want snake to be added to the game terminal so
+I have a fully functioning game to play..
+The game should function with no glitches and should
 give the user the option to quit when the game is over.
 
-
+As a player I want a Hangman game to be added to the 
+game terminal so I can play a fully functioning version.
+The game should allow a place to enter input from the user
+such as a letter and should act appropriately.
 
 .
 
