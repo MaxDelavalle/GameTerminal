@@ -31,7 +31,11 @@ As a player I want to use the game terminal to play the war card game.
 When I select a card, the computer will generate its own and will 
 determine who won and adjust the score accordingly. 
 
-As a player I want to use the game terminal to play the Slaps card game and Space Invaders. 
+As a player I want to use the game terminal to play the 
+Slaps card game and Space Invaders. The games should keep the 
+highest scores recorded for the user if they are logged in. Once
+the user login is fully functional, high scores for all games should
+be recorded.
 
 As a player I would like the User Interface to contain more features 
 so I can personalize my session while logged in. 
