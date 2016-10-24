@@ -38,6 +38,11 @@ so I can personalize my session while logged in.
 I want to see whether I am logged in or not so I will 
 know if the game terminal will remember my scores. 
 
+As a player I want to be able to play snake game so
+there are no glitches in the code.
+The game should function appropriately and should
+give the user the option to quit when the game is over.
+
 
 
 .
