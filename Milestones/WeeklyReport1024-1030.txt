@@ -1,0 +1,13 @@
+﻿Troy Burek, Max Delavalle, John Cordes
+
+
+Prof Crain
+
+
+Software Engineering II
+
+
+Weekly Report 10/24 - 10/30
+
+
+        We are currently undergoing the second week of our sprint, where we have completed the games “Snake” and “Space Invaders” and added them to our Game Terminal. One of our main focuses for this week is to add a login feature for users of Game Terminal. The user login will be a useful feature for a program such as this because it will enable us to keep track of users in the system. Another thing we hope to add for members of Game Terminal is the ability to add games to the Terminal that they have created. The code would be submitted in a form through the Game Terminal and then emailed to one of the moderators for review. Once the game is approved it will then be added to the Terminal at such time.
