@@ -57,6 +57,11 @@ game to the game terminal. I would like to create
 my own custom game and be able to submit it to a 
 review board so my game can be processed and checked.
 
+As a player of the game terminal I would like
+to know what phase of review my game is in
+once I have submitted it for review, such as
+review pending, approved, or rejected.
+
 .
 
 
