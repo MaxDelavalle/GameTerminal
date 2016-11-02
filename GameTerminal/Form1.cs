@@ -1,4 +1,5 @@
 ﻿using CalceranosInvaders;
+using HangmanD_7;
 using Snake;
 using System;
 using System.Collections.Generic;
@@ -44,6 +45,27 @@ namespace WindowsFormsApplication2
             snakeForm popup = new snakeForm();
             DialogResult dialogresult = popup.ShowDialog();
             if (dialogresult == DialogResult.Cancel) 
+            {
+                popup.Dispose();
+            }
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            loginForm popup = new loginForm();
+            DialogResult dialogresult = popup.ShowDialog();
+            if (dialogresult == DialogResult.Cancel)
+            {
+                popup.Dispose();
+            }
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Hangman popup = new Hangman();
+            DialogResult dialogresult = popup.ShowDialog();
+            if (dialogresult == DialogResult.Cancel)
             {
                 popup.Dispose();
             }

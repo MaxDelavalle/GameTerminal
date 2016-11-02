@@ -34,10 +34,6 @@
             this.button4 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
             this.button7 = new System.Windows.Forms.Button();
             this.button8 = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -89,6 +85,7 @@
             this.button4.TabIndex = 3;
             this.button4.Text = "Hangman";
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button5
             // 
@@ -112,44 +109,12 @@
             this.button6.Text = "Game6";
             this.button6.UseVisualStyleBackColor = false;
             // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(319, 19);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(65, 17);
-            this.label1.TabIndex = 6;
-            this.label1.Text = "Username";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(510, 19);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(62, 17);
-            this.label2.TabIndex = 7;
-            this.label2.Text = "Password";
-            // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(390, 16);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 22);
-            this.textBox1.TabIndex = 8;
-            // 
-            // textBox2
-            // 
-            this.textBox2.Location = new System.Drawing.Point(578, 16);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 22);
-            this.textBox2.TabIndex = 9;
-            // 
             // button7
             // 
-            this.button7.BackColor = System.Drawing.Color.Yellow;
+            this.button7.BackColor = System.Drawing.Color.Gold;
             this.button7.Location = new System.Drawing.Point(35, 16);
             this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(117, 23);
+            this.button7.Size = new System.Drawing.Size(117, 34);
             this.button7.TabIndex = 10;
             this.button7.Text = "Create Account";
             this.button7.UseVisualStyleBackColor = false;
@@ -157,12 +122,13 @@
             // button8
             // 
             this.button8.BackColor = System.Drawing.Color.Gold;
-            this.button8.Location = new System.Drawing.Point(603, 44);
+            this.button8.Location = new System.Drawing.Point(173, 16);
             this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(75, 23);
+            this.button8.Size = new System.Drawing.Size(127, 34);
             this.button8.TabIndex = 11;
             this.button8.Text = "Login";
             this.button8.UseVisualStyleBackColor = false;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // Form1
             // 
@@ -172,10 +138,6 @@
             this.ClientSize = new System.Drawing.Size(714, 307);
             this.Controls.Add(this.button8);
             this.Controls.Add(this.button7);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
             this.Controls.Add(this.button6);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
@@ -188,7 +150,6 @@
             this.Name = "Form1";
             this.Text = "GAME TERMINAL";
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -200,10 +161,6 @@
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Button button7;
         private System.Windows.Forms.Button button8;
     }
