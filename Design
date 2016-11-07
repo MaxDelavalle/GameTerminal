@@ -1,0 +1,47 @@
+Max Delavalle, Troy Burek, John Cordes
+Professor Crain
+Project Plan:
+
+
+Dream: Our long-term plan for the project is to create a game terminal which is comprised of 
+       multiple games. Any amount of games can be added to this, from arcade games to classic 
+       card games. We dream that this terminal could become a “Game Hub” which could contain 
+       hundreds of games, including games created by the game terminal creators, to user 
+       created games. This “terminal” will include a section where Registered Members can submit
+       working source code to a game that they would like to see added to Game Terminal. This 
+       will then be reviewed by the Game Terminal creators, and pending approval, be added to Game Terminal.
+
+
+September Goals: 
+    -Design Game Terminal
+    -Create working Game Terminal
+    Terminal must support:
+        -Multiple Games (pops up in new window)
+        -User registry and member login
+        -??User Submission of games??
+        -Working Links to games
+    -Add aesthetics to working game terminal
+      -Music
+      -Graphics
+
+
+October Goals: 
+  -Write Code for Rock Paper Scissors
+  -Write Code for War
+  -Write Code for Slaps
+  -Complete at least one working prototype
+  -Make sure game works in new window
+
+
+
+End of Semester Goals: 
+    -Complete Game Terminal including:
+    -working links to working games
+    -Music and graphics
+    -User registry and member login
+  -Write out all documentation including:
+    -requirements
+    -Design architecture
+    -Technical (algorithms, code, interfaces)
+    -Manuals for end-user, system administrator and support staff
+    -Tutorial for writing code for new games
