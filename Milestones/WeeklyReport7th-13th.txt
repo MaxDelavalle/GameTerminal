@@ -1,0 +1,10 @@
+﻿Troy Burek, Max Delavalle, John Cordes
+
+
+Prof Crain
+
+
+Weekly Report (7th-13th)
+
+
+        We are currently starting our second week in our 3rd 2 week sprint in which we will seek to accomplish a few different things. We are still working on getting the user login functional, as well as making tutorials for all games in our Game Terminal. Max and Troy will be working on implementing the user login and creating tutorials for the games, while John will be writing up customer reports for the Badger. We have also been working on changing our program’s language to French in accordance with the current assignment that has been given to us.
