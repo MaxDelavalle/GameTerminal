@@ -70,5 +70,15 @@ namespace WindowsFormsApplication2
                 popup.Dispose();
             }
         }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Tutorial popup = new WindowsFormsApplication2.Tutorial();
+            DialogResult dialogresult = popup.ShowDialog();
+            if (dialogresult == DialogResult.Cancel)
+            {
+                popup.Dispose();
+            }
+        }
     }
 }
