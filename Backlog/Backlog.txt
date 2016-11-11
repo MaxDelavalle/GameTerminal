@@ -69,7 +69,7 @@ Backlog:
   review pending, approved, or rejected.
 
   As a player I would like their to be
-  instructions or tutorial for each game
+  instructions or a tutorial for each game
   so I can read about how to play each game.
   This will help me to learn the rules and 
   understand the main concept of the game 
