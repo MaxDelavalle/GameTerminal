@@ -22,7 +22,7 @@ Backlog:
   When more games are added, I will be more likely to 
   find a game that interests me.
 
-  As a player I want a game to include a high score feature
+✔ As a player I want a game to include a high score feature
   so I know what my best score is for the game. 
   Similarly to keeping track of wins and losses, I want a game 
   that keeps a high score so I know how good a player I am.
