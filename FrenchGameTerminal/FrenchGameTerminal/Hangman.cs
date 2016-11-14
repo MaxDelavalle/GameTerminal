@@ -101,7 +101,7 @@ namespace HangmanD_7
             if ((currentWord = currentWord.ToUpper()).Contains(charClicked))
             {
                 // char is there (right guess)
-                lblInfo.Text = "Awesome!";
+                lblInfo.Text = "Genial!";
                 lblInfo.ForeColor = Color.Yellow;
                 char[] charArray = currentWord.ToCharArray();
                 for (int i = 0; i < currentWord.Length; i++)
@@ -115,7 +115,7 @@ namespace HangmanD_7
                     return;
 
                 lblInfo.ForeColor = Color.LawnGreen;
-                lblInfo.Text = "Hurray! You win.";
+                lblInfo.Text = "Hourra! Vous Gagnez.";
                 flowLayoutPanel1.Enabled = false;
             }
             else
@@ -132,7 +132,7 @@ namespace HangmanD_7
 
                 if (CurrentHangState == HangState.RightLeg)
                 {
-                    lblInfo.Text = "You lose!";
+                    lblInfo.Text = "Tu as Perdu!";
                     lblInfo.ForeColor = Color.Red;
                     flowLayoutPanel1.Enabled = false;
 
@@ -192,7 +192,7 @@ namespace HangmanD_7
         private void startToolStripMenuItem_Click(object sender, EventArgs e)
         {
             if (flowLayoutPanel1.Enabled)
-                if (MessageBox.Show("Game in progress, wanna start again?", "Game in progress", MessageBoxButtons.OKCancel) == System.Windows.Forms.DialogResult.Cancel)
+                if (MessageBox.Show("Jeu En Cours, Recommencer?", "Jeu en Cours", MessageBoxButtons.OKCancel) == System.Windows.Forms.DialogResult.Cancel)
                     return;
 
             ResetControls();
