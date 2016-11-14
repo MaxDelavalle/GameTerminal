@@ -1,0 +1,28 @@
+
+Customer Report Week 8
+	
+     State of Project:
+	
+        The Badger math calculator is now working with multiple digits. It solves equations between only two numbers using all types of operators
+  	including addition, multiplication, division and subtraction.
+	The Badger still has working functionality for the text input and basic random response generator based off of the design. 
+  	The web app part of this interface is working and has a unique interface.
+	There is still no design or functionality for voice input, voice recognition, or audio output.
+	The method for a pattern familiarity locator is a future design goal.
+ 	 Implementations that were once working are now working again and better than ever. Things are in better shape than they were
+  	last week and are coming along well.
+	
+	Development Progress:
+	
+	The goals over the past week were to get two digits working with the calculator.
+	This was accomplished. More than 2 digits also works and correclty caclulates. Although you can use numbers with more
+ 	than 2 digits, you can only do an equation with 2 seperate numbers. For examples, you could do 9000 - 10 = 8990, 
+  	but you could not do 90 + 10000 + 72 because that is three seperate numbers. The design for the calculator was
+  	also updated making the design more aesthetically pleasing, adding different colors and button appearance.
+  	The progress that was accomplished over the past week met expectations and requirements.
+	
+	Next Week Goals:
+	
+	Goals for next week include calculating an equation with more than two numbers involved, such as 10 + 300 + 56.
+	Another goal is to work on the design and implementation of the math calculator so they look good together and compliment each other
+  	in style.

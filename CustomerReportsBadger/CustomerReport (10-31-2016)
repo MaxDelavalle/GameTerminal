@@ -1,0 +1,30 @@
+
+Customer Report 9
+
+State of Project:
+
+The Badger math calculator is still working with multiple digits. 
+It solves equations between two numbers using all types of operators
+including addition, multiplication, division and subtraction.
+The Badger continues to function for the text input and basic random 
+response generator based off of the design. The web app part of this interface 
+is working and constantly undergoing changes. No design for functionality for voice 
+input, voice recognition, or audio output as of yet. The method for a pattern familiarity 
+locator may or may not happen as a future goal. Implementations have been 
+added such as The Badger asking trivia questions.
+
+Development Progress:
+
+The goals over the past week were to get three digits working with the calculator.
+This has been put off for later because more focus was given to other
+creative areas. Over the past week, trivia question were added to The Badger. 
+The Badger will ask you a trivia question and you will have to answer it in your head. 
+The interface was updated to accommodate these questions being asked.
+
+Next Week Goals:
+
+Goals for next week include adding 17 answers to the trivia questions that are asked, 
+so the user has access to the correct answers. Another goal is to work on 
+the style of the generator to make it look good with the new developments. 
+Another goal is to get the calculator working with 3 numbers. The last goal is a 
+two week goal and is not expected to be done by next week.

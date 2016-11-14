@@ -1,0 +1,10 @@
+﻿Troy Burek, Max Delavalle, John Cordes
+
+
+Weekly Report 31st - 6th
+
+
+Prof Crain
+
+
+        This week we are starting a new 2 week sprint session in which we will be working on “Hangman” and a user login screen/functionality. Troy and Max will be adding a useful feature that our customer has proposed in the near future, which is going to be a tutorial form that will instruct users on how to play each game in our program. We would like to add more items to our backlog, which John will be doing. In our SCRUM meeting we discussed how we are going to implement “Hangman”, and using two forms for the game.

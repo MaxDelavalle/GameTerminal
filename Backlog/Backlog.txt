@@ -1,46 +1,85 @@
 Backlog:
 
-As a player I want to see the game selection when the terminal 
-comes up so I can choose my preferred game. 
-When I see the games immediately as the game terminal loads, 
-I will instantly be able to start selecting a game.
+✔ As a player I want to see the game selection when the terminal 
+  comes up so I can choose my preferred game. 
+  When I see the games immediately as the game terminal loads, 
+  I will instantly be able to start selecting a game.
 
-As a player I want to use the game terminal menu so I can choose to play the Rock-paper-scissors game. 
-There will be an area where I can choose rock, paper, or scissors, and the computer 
-will generate its response once I have choosen mine. 
-A log of my wins and losses shouls appear somewhere on the screen.
+✔ As a player I want to use the game terminal menu so I can choose to play the Rock-paper-scissors game. 
+  There will be an area where I can choose rock, paper, or scissors, and the computer 
+  will generate its response once I have choosen mine. 
+  A log of my wins and losses shouls appear somewhere on the screen.
 
-As a player I want to log in to the game terminal so I can access the games as a unique user. 
-Once I log into the game terminal, 
-the scores I make while logged in will be saved.
+  As a player I want to log in to the game terminal so I can access the games as a unique user. 
+  Once I log into the game terminal, 
+  the scores I make while logged in will be saved.
 
-As a player I want a game to keep track of wins and losses so I know what my winning history is. 
-The game will count the number of losses and wins and it will 
-update the total count each time I finish a game.
+  As a player I want a game to keep track of wins and losses so I know what my winning history is. 
+  The game will count the number of losses and wins and it will 
+  update the total count each time I finish a game.
  
-As a player I want more games added to the terminal so I have a greater selection to choose from. 
-When more games are added, I will be more likely to 
-find a game that interests me.
+✔ As a player I want more games added to the terminal so I have a greater selection to choose from. 
+  When more games are added, I will be more likely to 
+  find a game that interests me.
 
-As a player I want a game to include a high score feature
-so I know what my best score is for the game. 
-Similarly to keeping track of wins and losses, I want a game 
-that keeps a high score so I know how good a player I am.
+✔ As a player I want a game to include a high score feature
+  so I know what my best score is for the game. 
+  Similarly to keeping track of wins and losses, I want a game 
+  that keeps a high score so I know how good a player I am.
 
-As a player I want to use the game terminal to play the war card game. 
-When I select a card, the computer will generate its own and will 
-determine who won and adjust the score accordingly. 
+  As a player I want to use the game terminal to play the war card game. 
+  When I select a card, the computer will generate its own and will 
+  determine who won and adjust the score accordingly. 
 
-As a player I want to use the game terminal to play the Slaps card game and Space Invaders. 
+  As a player I want to use the game terminal to play the 
+  Slaps card game and Space Invaders. The games should keep the 
+  highest scores recorded for the user if they are logged in. Once
+  the user login is fully functional, high scores for all games should
+  be recorded.
 
-As a player I would like the User Interface to contain more features 
-so I can personalize my session while logged in. 
-I want to see whether I am logged in or not so I will 
-know if the game terminal will remember my scores. 
+✔ As a player I would like the User Interface to contain more features 
+  so I can personalize my session while logged in. 
+  I want to see whether I am logged in or not so I will 
+  know if the game terminal will remember my scores. 
 
+✔ As a player I want snake to be added to the game terminal so
+  I have a fully functioning game to play..
+  The game should function with no glitches and should
+  give the user the option to quit when the game is over.
 
+✔ As a player I want a Hangman game to be added to the 
+  game terminal so I can play a fully functioning version.
+  The game should allow a place to enter input from the user
+  such as a letter and should act appropriately.
 
-.
+  As a player I want to be able to add my own
+  game to the game terminal. I would like to create
+  my own custom game and be able to submit it to a 
+  review board so my game can be processed and checked.
+
+  As a player I would like there to be a menu 
+  where I can select game categories so
+  I can better find the type of game I
+  would like to play. This will help me find
+  a suitable game that I will enjoy and excel at.
+
+  As a player of the game terminal I would like
+  to know what phase of review my game is in
+  once I have submitted it for review, such as
+  review pending, approved, or rejected.
+
+  As a player I would like their to be
+  instructions or a tutorial for each game
+  so I can read about how to play each game.
+  This will help me to learn the rules and 
+  understand the main concept of the game 
+  before I start playing it.
+
+  As an Investor for the game terminal
+  I would like there to be a French language
+  version of the product so it can be marketed
+  to a broader audience. This will bring in more
+  revenue for the product and its investor.
 
 
 

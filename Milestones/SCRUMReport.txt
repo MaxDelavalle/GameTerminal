@@ -1,0 +1,13 @@
+﻿Troy Burek, Max Delavalle, John Cordes
+
+
+Prof Crain
+
+
+Software Engineering II
+
+
+SCRUM Report
+
+
+        For our Game Terminal, we are using C# and visual studio to accomplish what we need from the program. Max and Troy are in charge of overall UI design and the coding of the program. John Cordes is in charge of customer reports. We are currently working on implementing “Hangman” into our program. For this week, we want to have this game work with two different forms: the menu form where categories can be selected and a form for the actual game itself. We’re using various samples we found online to help teach us how to write this program and implement it into our system. One issue we have right now is with the WinForms format which is making it difficult to design the game form. On a side note, we are also still figuring out how to accept and store input from a login form so that users can sign into Game Terminal with a username.
