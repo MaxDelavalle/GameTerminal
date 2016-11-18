@@ -1,0 +1,37 @@
+Customer Report 11
+
+State of Project:
+
+Calculating multiple digits and numbers with the math calculator works. 
+It still solves equations between two numbers using most types of operators
+including addition, multiplication, division and subtraction.The Badger 
+continues to function for the text input and basic random response generator 
+and more answers.responses have been added. The web app part of this interface
+is in a good state of completeness and extra designs only compliment it. No 
+design for functionality for voice input, voice recognition, or audio output
+as of yet. The method for a pattern familiarity locator is still a possibility. 
+Different types of feature inputs have been added such as a radio button. There
+are multiple different modes of operation that all do specific tasks for the user.
+
+Development Progress:
+
+The goals over the past weeks were accomplished and more questions and answers were added
+to the Badger. The math calculator works with multiple digits and numbers too. For the most part,
+the app is up to date with the design goals and everything has come along as expected. 
+Different modes have been officially added to the Badger including, Trivia Mode, 8-Ball Mode, 
+and Basic Math Mode. To Use the 8-ball mode, the user types in their question and then clicks the 
+"Hail The Badger Button". If the user wants trivia mode then they click on the trivia mode 
+button and have the options to either, pick the question, type a response, or have The Badger 
+answer their question. Basic Math mode simply does basic math equations involving basic operators. 
+Once the user is on any one of these modes their is always and option to return to the home screen. 
+The interface was updated to accommodate these new additions accordingly, with features such as 
+buttons and text boxes.The developments met expectations for the week and the requirements appear
+to be fulfilled.
+
+Goals for next week:
+
+Goals for next week include finishing The Badger instruction manual which would
+include adding instructions for the Basic Math Mode. Another goal is to get
+most of the user input features to work properly without fail or bugs, such as fixing
+radio button problems on all forms and make sure the input is functional with the 
+new implementations. 
