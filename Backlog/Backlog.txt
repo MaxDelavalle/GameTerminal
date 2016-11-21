@@ -52,7 +52,7 @@ Backlog:
   The game should allow a place to enter input from the user
   such as a letter and should act appropriately.
 
-  As a player solo game programmer I want to be able to add my own
+  As a player and solo game programmer I want to be able to add my own
   game to the game terminal. I would like to create
   my own custom game and be able to submit it to a 
   review board so my game can be processed and checked.
