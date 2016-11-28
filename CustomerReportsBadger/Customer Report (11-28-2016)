@@ -1,1 +1,26 @@
+Customer Report 12
 
+State of Project:
+
+Whem calculating multiple digits and numbers with the math calculator success 
+is achieved. Basic Math mode solves equations between two numbers using most types
+of operators including addition, multiplication, division and subtraction. The Badger 
+continues to function for the text input and basic random response generator for 8 ball mode
+and trivia mode and many answers are available. The interface i in a good state of completeness
+and extra designs do it good. No Design for functionality for voice input, voice recognition, or audio output
+yet. The method for a pattern familiarity locator is still a possibility. 
+Different types of feature inputs have been added such as a radio button. There
+are multiple different modes of operation that all do specific tasks for the user.
+
+Development Progress:
+
+The goals over were to finish the instruction manual. This wasn't completed. However, most
+of the functionality for radio buttons and other features appear to work. More progress can
+be made in these areas though. The requirements were almost fulfilled this week. Developments
+were just under satifactory levels.
+
+Goals for next week:
+
+Goals for next week include finishing The Badger instruction manual which would
+include adding instructions for the Basic Math Mode. Another goal is to get
+all the user features and inputs features working correclty.
