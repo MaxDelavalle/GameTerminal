@@ -15,13 +15,14 @@ operation that all do specific tasks for the user.
 
 Development Progress:
 
-The goals over the past week were to finish the instruction manual. This 
-wasn't completed fully. The Basic math calculator still needs instructions 
+The goals over the past week were to finish the instruction manual. The instructions
+for this mode were not were not added to manual, but the basic math mode button and 
+implemenation were added to the product.The Basic math calculator still needs instructions 
 added. However, the other goal of fixing problems with radio buttons and 
 feature input errors are pretty much resolved. Most of the functionality for
 radio buttons and other input type features appear to work. More progress can
-be made in these areas though. The requirements were almost fulfilled this week.
-Developments were just under satifactory levels.
+be made in these areas though. The requirements were pretty much fulfilled this week but
+still need instructions added. Developments were just under satifactory levels.
 
 Goals for next week:
 
