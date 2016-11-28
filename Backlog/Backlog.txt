@@ -14,7 +14,7 @@ Backlog:
   Once I log into the game terminal, 
   the scores I make while logged in will be saved.
 
-  As a player I want a game to keep track of wins and losses so I know what my winning history is. 
+✔ (for at least one game) As a player I want a game to keep track of wins and losses so I know what my winning history is. 
   The game will count the number of losses and wins and it will 
   update the total count each time I finish a game.
  
