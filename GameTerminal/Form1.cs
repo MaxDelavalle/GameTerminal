@@ -1,5 +1,6 @@
 ﻿using CalceranosInvaders;
 using HangmanD_7;
+using Pingpong;
 using Snake;
 using System;
 using System.Collections.Generic;
@@ -74,6 +75,16 @@ namespace WindowsFormsApplication2
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             Tutorial popup = new WindowsFormsApplication2.Tutorial();
+            DialogResult dialogresult = popup.ShowDialog();
+            if (dialogresult == DialogResult.Cancel)
+            {
+                popup.Dispose();
+            }
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            pongForm popup = new pongForm();
             DialogResult dialogresult = popup.ShowDialog();
             if (dialogresult == DialogResult.Cancel)
             {
