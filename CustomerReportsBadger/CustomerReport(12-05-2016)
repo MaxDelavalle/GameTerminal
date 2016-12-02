@@ -16,7 +16,7 @@ There are multiple different modes of operation that all do specific tasks for t
 Development Progress:
 
 The goals over the past week were to finish the instruction manual. The instructions
-for this mode is being finished up. The Basic math calculator still needs instructions 
+for basic math mode is being finished up. The Basic math calculator still needs instructions 
 added. Resolving any errors with the current prototype of fixed and the product runs
 smoothly enough. Most of the functionality for radio buttons and other input type features 
 appear to work. More progress is encourages in these areas as well of others. The 
