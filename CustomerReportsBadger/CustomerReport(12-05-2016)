@@ -9,7 +9,7 @@ continues to function for the text input and basic random response generator for
 ball mode and trivia mode and many answers are available. The interface is in a good
 state of completeness and new implementations do it good. No Design for functionality for
 voice input, voice recognition, or audio output and isn't expected. The method for a pattern 
-familiarity locator is still a possibility doesn't appear to be a  reachable goal. 
+familiarity locator is still a possibility doesn't appear to be a reachable goal. 
 Different types of feature inputs have been added such as a radio button. 
 There are multiple different modes of operation that all do specific tasks for the user.
 
