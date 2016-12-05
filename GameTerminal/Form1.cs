@@ -1,6 +1,6 @@
 ﻿using CalceranosInvaders;
+using GameTerminal;
 using HangmanD_7;
-using Pingpong;
 using Snake;
 using System;
 using System.Collections.Generic;
@@ -84,7 +84,12 @@ namespace WindowsFormsApplication2
 
         private void button5_Click(object sender, EventArgs e)
         {
-            pongForm popup = new pongForm();
+            
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            accountForm popup = new accountForm();
             DialogResult dialogresult = popup.ShowDialog();
             if (dialogresult == DialogResult.Cancel)
             {
