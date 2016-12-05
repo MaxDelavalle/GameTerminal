@@ -1,0 +1,10 @@
+﻿Troy Burek, Max Delavalle, John Cordes
+
+
+Prof Crain
+
+
+Weekly Report Nov 21st - 27th
+
+
+        In the second week of our current sprint, we are continuing work on “Pong”, “Reversi”, and our user login system. Max and Troy are working on finishing the final details of these games while John is typing our customer reports and working on our backlog. We are also still doing research for new games for the console just in case pong may not be working, as there is a slight inconvenience that has to do with the way it uses multiple forms to run different things that the game needs. We will work on adding “Reversi” after “Pong” has been finalized, and the user login will be worked on along the way as well.
