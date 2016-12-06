@@ -96,8 +96,9 @@
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(168, 44);
             this.button5.TabIndex = 4;
-            this.button5.Text = "Game5";
+            this.button5.Text = "Pong";
             this.button5.UseVisualStyleBackColor = false;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button6
             // 
@@ -119,6 +120,7 @@
             this.button7.TabIndex = 10;
             this.button7.Text = "Create Account";
             this.button7.UseVisualStyleBackColor = false;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // button8
             // 
