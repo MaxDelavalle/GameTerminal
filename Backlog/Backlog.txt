@@ -14,7 +14,7 @@ Backlog:
   Once I log into the game terminal, 
   the scores I make while logged in will be saved.
 
-  As a player I want a game to keep track of wins and losses so I know what my winning history is. 
+✔ (for at least one game) As a player I want a game to keep track of wins and losses so I know what my winning history is. 
   The game will count the number of losses and wins and it will 
   update the total count each time I finish a game.
  
@@ -31,11 +31,11 @@ Backlog:
   When I select a card, the computer will generate its own and will 
   determine who won and adjust the score accordingly. 
 
-  As a player I want to use the game terminal to play the 
+✔ As a player I want to use the game terminal to play the 
   Slaps card game and Space Invaders. The games should keep the 
   highest scores recorded for the user if they are logged in. Once
   the user login is fully functional, high scores for all games should
-  be recorded.
+  be recorded. 
 
 ✔ As a player I would like the User Interface to contain more features 
   so I can personalize my session while logged in. 
@@ -52,7 +52,7 @@ Backlog:
   The game should allow a place to enter input from the user
   such as a letter and should act appropriately.
 
-  As a player I want to be able to add my own
+  As a player and solo game programmer I want to be able to add my own
   game to the game terminal. I would like to create
   my own custom game and be able to submit it to a 
   review board so my game can be processed and checked.
@@ -63,23 +63,28 @@ Backlog:
   would like to play. This will help me find
   a suitable game that I will enjoy and excel at.
 
-  As a player of the game terminal I would like
+  As a game poster of the game terminal I would like
   to know what phase of review my game is in
   once I have submitted it for review, such as
   review pending, approved, or rejected.
 
-  As a player I would like their to be
+✔ As a player I would like their to be
   instructions or a tutorial for each game
   so I can read about how to play each game.
   This will help me to learn the rules and 
   understand the main concept of the game 
   before I start playing it.
 
-  As an Investor for the game terminal
+✔ As an Investor for the game terminal
   I would like there to be a French language
   version of the product so it can be marketed
   to a broader audience. This will bring in more
   revenue for the product and its investor.
+  
+  As a player I want the Pong game to be added
+  to the game terminal so I can play it
+  without an error. I want to be able to 
+  see the listing for the game on the menu.
 
 
 

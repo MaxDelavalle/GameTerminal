@@ -1,0 +1,10 @@
+﻿Troy Burek, Max Delavalle, John Cordes
+
+
+Prof Crain
+
+
+Weekly Report Nov 28th - Dec 4th
+
+
+        This week we are beginning a new two-week scrum sprint. Max and Troy are still working on a user login feature so that users can be tracked as members of the game terminal. Also, “Pong” has been added to the program, and we have began work on a settings page so that users can adjust the way the games are played as to fit their preference. John is working on backlogs and customer reports. Everything is coming along smoothly and we are making commits as frequently as possible.
