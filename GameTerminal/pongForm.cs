@@ -190,15 +190,15 @@ namespace Pingpong
 
         public void ApplySettings()
         {   //Function to set colors from the programs settings file, happens once every 1ms :b
-            pb_Player.BackColor = Properties.Settings.Default.Color_Player;
-            pb_Enemy.BackColor = Properties.Settings.Default.Color_Enemy;
-            pb_Ball.BackColor = Properties.Settings.Default.Color_Ball;
-            WorldFrame.BackColor = Properties.Settings.Default.Color_Frame;
-            BallSpeed = Properties.Settings.Default.BallSpeed;
-            timer_Moveball.Interval = Properties.Settings.Default.Timer_Movement;
-            timer_Enemy.Interval = Properties.Settings.Default.Timer_Enemy;
-            Speed_Enemy = Properties.Settings.Default.EnemySpeed;
-            Speed_Player = Properties.Settings.Default.Speed_Player;
+            pb_Player.BackColor = Properties.Settings111.Default.Color_Player;
+            pb_Enemy.BackColor = Properties.Settings111.Default.Color_Enemy;
+            pb_Ball.BackColor = Properties.Settings111.Default.Color_Ball;
+            WorldFrame.BackColor = Properties.Settings111.Default.Color_Frame;
+            BallSpeed = Properties.Settings111.Default.BallSpeed;
+            timer_Moveball.Interval = Properties.Settings111.Default.Timer_Movement;
+            timer_Enemy.Interval = Properties.Settings111.Default.Timer_Enemy;
+            Speed_Enemy = Properties.Settings111.Default.EnemySpeed;
+            Speed_Player = Properties.Settings111.Default.Speed_Player;
         }
 
         public int ReverseInt(int x, Boolean Force = false, Boolean Negative = false)

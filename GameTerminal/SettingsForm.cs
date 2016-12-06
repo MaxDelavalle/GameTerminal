@@ -26,19 +26,19 @@ namespace Pingpong
                 switch (Btn.Name)
                 {
                     case "numericUpDown1":
-                        Properties.Settings.Default.BallSpeed = (int)numericUpDown1.Value;
+                        Properties.Settings111.Default.BallSpeed = (int)numericUpDown1.Value;
                         break;
                     case "numericUpDown2":
-                        Properties.Settings.Default.Timer_Enemy = (int)numericUpDown2.Value;
+                        Properties.Settings111.Default.Timer_Enemy = (int)numericUpDown2.Value;
                         break;
                     case "numericUpDown3":
-                        Properties.Settings.Default.Timer_Movement = (int)numericUpDown3.Value;
+                        Properties.Settings111.Default.Timer_Movement = (int)numericUpDown3.Value;
                         break;
                     case "numericUpDown4":
-                        Properties.Settings.Default.EnemySpeed = (int)numericUpDown4.Value;
+                        Properties.Settings111.Default.EnemySpeed = (int)numericUpDown4.Value;
                         break;
                     case "numericUpDown5":
-                        Properties.Settings.Default.Speed_Player = (int)numericUpDown5.Value;
+                        Properties.Settings111.Default.Speed_Player = (int)numericUpDown5.Value;
                         break;
                 }
             }
@@ -46,7 +46,7 @@ namespace Pingpong
             {
                 Btn.Value = 1;
             }
-            Properties.Settings.Default.Save();
+            Properties.Settings111.Default.Save();
         }
 
         private void pictureBox4_Click(object sender, EventArgs e)
@@ -55,9 +55,9 @@ namespace Pingpong
             if (CD.ShowDialog() == DialogResult.OK)
             {
                 pictureBox4.BackColor = CD.Color;
-                Properties.Settings.Default.Color_Player = CD.Color;
+                Properties.Settings111.Default.Color_Player = CD.Color;
             }
-            Properties.Settings.Default.Save();
+            Properties.Settings111.Default.Save();
         }
 
         private void pictureBox3_Click(object sender, EventArgs e)
@@ -66,9 +66,9 @@ namespace Pingpong
             if (CD.ShowDialog() == DialogResult.OK)
             {
                 pictureBox3.BackColor = CD.Color;
-                Properties.Settings.Default.Color_Enemy = CD.Color;
+                Properties.Settings111.Default.Color_Enemy = CD.Color;
             }
-            Properties.Settings.Default.Save();
+            Properties.Settings111.Default.Save();
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
@@ -77,9 +77,9 @@ namespace Pingpong
             if (CD.ShowDialog() == DialogResult.OK)
             {
                 pictureBox2.BackColor = CD.Color;
-                Properties.Settings.Default.Color_Ball = CD.Color;
+                Properties.Settings111.Default.Color_Ball = CD.Color;
             }
-            Properties.Settings.Default.Save();
+            Properties.Settings111.Default.Save();
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
@@ -88,9 +88,9 @@ namespace Pingpong
             if (CD.ShowDialog() == DialogResult.OK)
             {
                 pictureBox1.BackColor = CD.Color;
-                Properties.Settings.Default.Color_Frame = CD.Color;
+                Properties.Settings111.Default.Color_Frame = CD.Color;
             }
-            Properties.Settings.Default.Save();
+            Properties.Settings111.Default.Save();
         }
 
         private void SettingsForm_FormClosed(object sender, FormClosedEventArgs e)
@@ -111,31 +111,31 @@ namespace Pingpong
             numericUpDown4.Value = 1;
             numericUpDown5.Value = 1;
 
-            Properties.Settings.Default.Timer_Enemy = 10;
-            Properties.Settings.Default.Timer_Movement = 1;
-            Properties.Settings.Default.BallSpeed = 3;
-            Properties.Settings.Default.EnemySpeed = 1;
-            Properties.Settings.Default.Speed_Player = 1;
-            Properties.Settings.Default.Color_Ball = Color.Black;
-            Properties.Settings.Default.Color_Frame = Color.White;
-            Properties.Settings.Default.Color_Enemy = Color.Red;
-            Properties.Settings.Default.Color_Player = Color.SkyBlue;
+            Properties.Settings111.Default.Timer_Enemy = 10;
+            Properties.Settings111.Default.Timer_Movement = 1;
+            Properties.Settings111.Default.BallSpeed = 3;
+            Properties.Settings111.Default.EnemySpeed = 1;
+            Properties.Settings111.Default.Speed_Player = 1;
+            Properties.Settings111.Default.Color_Ball = Color.Black;
+            Properties.Settings111.Default.Color_Frame = Color.White;
+            Properties.Settings111.Default.Color_Enemy = Color.Red;
+            Properties.Settings111.Default.Color_Player = Color.SkyBlue;
 
-            Properties.Settings.Default.Save();
+            Properties.Settings111.Default.Save();
         }
 
         private void SettingsForm_Load(object sender, EventArgs e)
         {
-            pictureBox1.BackColor = Properties.Settings.Default.Color_Frame;
-            pictureBox2.BackColor = Properties.Settings.Default.Color_Ball;
-            pictureBox3.BackColor = Properties.Settings.Default.Color_Enemy;
-            pictureBox4.BackColor = Properties.Settings.Default.Color_Player;
+            pictureBox1.BackColor = Properties.Settings111.Default.Color_Frame;
+            pictureBox2.BackColor = Properties.Settings111.Default.Color_Ball;
+            pictureBox3.BackColor = Properties.Settings111.Default.Color_Enemy;
+            pictureBox4.BackColor = Properties.Settings111.Default.Color_Player;
 
-            numericUpDown1.Value = Properties.Settings.Default.BallSpeed;
-            numericUpDown2.Value = Properties.Settings.Default.Timer_Enemy;
-            numericUpDown3.Value = Properties.Settings.Default.Timer_Movement;
-            numericUpDown4.Value = Properties.Settings.Default.EnemySpeed;
-            numericUpDown5.Value = Properties.Settings.Default.Speed_Player;
+            numericUpDown1.Value = Properties.Settings111.Default.BallSpeed;
+            numericUpDown2.Value = Properties.Settings111.Default.Timer_Enemy;
+            numericUpDown3.Value = Properties.Settings111.Default.Timer_Movement;
+            numericUpDown4.Value = Properties.Settings111.Default.EnemySpeed;
+            numericUpDown5.Value = Properties.Settings111.Default.Speed_Player;
         }
     }
 }

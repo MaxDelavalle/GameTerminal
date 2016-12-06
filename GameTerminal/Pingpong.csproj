@@ -55,6 +55,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\1AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings111.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings11.settings</DependentUpon>
+    </Compile>
     <Compile Include="SettingsForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -78,8 +83,9 @@
     <EmbeddedResource Include="SettingsForm.resx">
       <DependentUpon>SettingsForm.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include="Properties\1Settings.settings">
+    <None Include="Properties\Settings11.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings111.Designer.cs</LastGenOutput>
     </None>
   </ItemGroup>
   <ItemGroup>
