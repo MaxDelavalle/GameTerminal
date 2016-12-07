@@ -81,7 +81,7 @@ Backlog:
   to a broader audience. This will bring in more
   revenue for the product and its investor.
   
-  As a player I want the Pong game to be added
+✔ As a player I want the Pong game to be added
   to the game terminal so I can play it
   without an error. I want to be able to 
   see the listing for the game on the menu.
