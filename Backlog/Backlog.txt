@@ -85,6 +85,12 @@ Backlog:
   to the game terminal so I can play it
   without an error. I want to be able to 
   see the listing for the game on the menu.
+  
+  As a player I would like there to be
+  some kind of background music when
+  accessing the Game Terminal menu or
+  a similar place, so I can enjoy the 
+  atmosphere of the interface while using it.
 
 
 
