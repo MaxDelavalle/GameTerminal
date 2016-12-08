@@ -61,7 +61,7 @@ Backlog:
   where I can select games/game categories so
   I can better find the type of game I
   would like to play. This will help me find
-  a suitable game that I will enjoy and excel at.
+  games in and organized fashion.
 
   As a game poster of the game terminal I would like
   to know what phase of review my game is in
