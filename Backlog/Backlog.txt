@@ -57,8 +57,8 @@ Backlog:
   my own custom game and be able to submit it to a 
   review board so my game can be processed and checked.
 
-  As a player I would like there to be a menu 
-  where I can select game categories so
+✔ As a player I would like there to be a menu 
+  where I can select games/game categories so
   I can better find the type of game I
   would like to play. This will help me find
   a suitable game that I will enjoy and excel at.
