@@ -2,30 +2,33 @@ Customer Report 14
 
 State of Project:
 
-Multiple digits and operations can be used successfully with the math mode
-and math calculator. Basic Math mode solves equations between two numbers using 
-operators including addition, multiplication, division and subtraction. The Badger 
-continues to function for the text input and basic random response generator for 8 
-ball mode and trivia mode and many questions and answers are available. The user can
-enter in a question for the 8 ball mode and get a random answer. Trivia mode can ask
-question and then you can request the answer. The interface is in a good state of 
-completeness and new implementations compliment it. Once on a certain mode, the user 
-can click on the home button to go back to the main menu. No Design for functionality 
-for voice input, voice recognition, or audio output. There doesnt seem to be a patter 
-familiarity recognition function. Different types of feature inputs have been added such
-as a radio button. There are multiple different modes of operation that all do specific
-tasks for the user. There is also a complete instruction manual describing the various
-modes of operation. 
+Multiple digits and operations can be used successfully with the 
+math mode and math calculator. Basic Math mode solves equations between
+two numbers using operators including addition, multiplication, division 
+and subtraction. The Badger continues to function for the text input and
+basic random response generator for 8 ball mode and trivia mode and many 
+questions and answers are available. The user can enter in a question for
+the 8 ball mode and get a random answer. Trivia mode can ask question and 
+then you can request the answer. The interface is in a good state of completeness
+and new implementations compliment it. Once on a certain mode, the user can 
+click on the home button to go back to the main menu. No Design for functionality 
+for voice input, voice recognition, or audio output. There doesnt seem to be
+a patter familiarity recognition function. Different types of feature inputs
+have been added such as a radio button. There are multiple different modes of
+operation that all do specific tasks for the user. There is also a complete 
+instruction manual describing the various modes of operation. 
 
 Development Progress:
 
-The goals over the past week were to finish up the last few touches and implementations
-and the instruction manual. Another goal was to add more trivia questions to provide a 
-more extensive experience. The instructions manual is finished and now has descriptions
-for all three modes of operation including math mode. More trivia questions are added and
-the user now has more questions and answers to play with. Most of the functionality for 
-radio buttons and other input type features appear to work.  The requirements were fulfilled
-for the past week. The developments made met expectations.
+The goals over the past week were to finish up the last few touches
+and implementations and the instruction manual. Another goal was to 
+add more trivia questions to provide a more extensive experience. 
+The instructions manual is finished and now has descriptions for all
+three modes of operation including math mode. More trivia questions 
+are added and the user now has more questions and answers to play with.
+Most of the functionality for radio buttons and other input type features
+appear to work.  The requirements were fulfilled for the past week. The
+developments made met expectations.
 
 Last Minute Goals:
 
