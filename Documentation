@@ -1,1 +1,36 @@
 Documentation:
+
+Game Terminal: created by Max Delavalle & Troy Burek
+  includes: all coding with the exception of code mentioned
+  below.
+  
+Rock Paper Scissors:
+  Credit to Marko (StackOverflow) for piece of code involved in game logic
+    (code was not reproduced, but was an aid in our coding)
+  Found at http://stackoverflow.com/questions/28815022/paper-rock-scissors-game-c
+    (Question posted on a forum along with his code)
+  
+Hangman:
+  Credit to Vishnu Rawal for original game.
+    (Game expanded upon, added 6 different word banks)
+  Found on CodeProject.com (open source)
+  license: https://www.codeproject.com/info/cpol10.aspx
+  
+Snake: 
+  Credit to Gameus Guyus for original source code.
+    (Color changes)
+  Found at https://www.youtube.com/watch?v=xuEIK587jio
+  license: https://www.youtube.com/static?template=terms     (section 6c)
+
+Space Invaders:
+  Credit to GCalcerano for original game.
+  Found on CodeProject.com (open source)
+  license: https://www.codeproject.com/info/cpol10.aspx
+  
+Pong:
+  Credit to Hydeen for original game.
+  Found on CodeProject.com (open source)
+  license: https://www.codeproject.com/info/cpol10.aspx
+
+
+  
